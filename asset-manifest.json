@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gamez/static/css/main.a617e044.chunk.css",
+    "main.js": "/gamez/static/js/main.89318c42.chunk.js",
+    "main.js.map": "/gamez/static/js/main.89318c42.chunk.js.map",
+    "runtime-main.js": "/gamez/static/js/runtime-main.1cf8d352.js",
+    "runtime-main.js.map": "/gamez/static/js/runtime-main.1cf8d352.js.map",
+    "static/js/2.f9fc0e83.chunk.js": "/gamez/static/js/2.f9fc0e83.chunk.js",
+    "static/js/2.f9fc0e83.chunk.js.map": "/gamez/static/js/2.f9fc0e83.chunk.js.map",
+    "static/js/3.e7aa0352.chunk.js": "/gamez/static/js/3.e7aa0352.chunk.js",
+    "static/js/3.e7aa0352.chunk.js.map": "/gamez/static/js/3.e7aa0352.chunk.js.map",
+    "index.html": "/gamez/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gamez/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f9fc0e83.chunk.js.LICENSE.txt": "/gamez/static/js/2.f9fc0e83.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gamez/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cf8d352.js",
+    "static/js/2.f9fc0e83.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.89318c42.chunk.js"
+  ]
+}
