@@ -2,7 +2,7 @@
   "name": "gamez",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Djay-M.github.io/gamez",
+  "homepage": "https://Djay-M.github.io/gamez",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
